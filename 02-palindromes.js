@@ -6,6 +6,5 @@ function palindrome(myString) {
 
 // Call the function and store the result
 let isPalindrome = palindrome(myString);
-
-// Display the result using console.log
 console.log(isPalindrome);
+//Result - true
